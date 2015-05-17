@@ -49,6 +49,10 @@ For Example to set `w3m-browse-url`.
 
 Default is `eww-browse-url`.
 
-## COPYRIGHT and LICENSE
+## LICENSE
+
+See `LICENSE`.
+
+## COPYRIGHT
 
 See `mt-doc-lookup.el`.
