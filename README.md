@@ -39,7 +39,7 @@ M-x mt-doc-lookup
 
 ### CUSTOMIZE
 
-### Set browswer-function for mt-doc-lookup
+### Set `browser-function` for mt-doc-lookup
 
 For Example to set `w3m-browse-url`.
 
