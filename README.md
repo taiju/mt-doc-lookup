@@ -7,7 +7,7 @@ To look up Movable Type documentation.
 1. Put `mt-doc-lookup.el` to `load-path`.
 2. Add a below code `init.el`.
 
-```emacslisp
+```elisp
 (require 'mt-doc-lookup)
 ```
 
