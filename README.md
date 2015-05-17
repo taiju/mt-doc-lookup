@@ -11,6 +11,12 @@ To look up Movable Type documentation.
 (require 'mt-doc-lookup)
 ```
 
+## SCREENSHOT
+
+![Screenshot](https://github.com/taiju/mt-doc-lookup-el/raw/master/artwork/screenshot.gif)
+
+Took screenshot with using `ido` + `smex` + `ido-vertical-mode`.
+
 ## USAGE
 
 ### To look up tags
