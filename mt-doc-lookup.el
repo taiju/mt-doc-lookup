@@ -3,7 +3,7 @@
 ;; Copyright (C) 2015 taiju
 
 ;; Author: HIGASHI Taiju <higashi@taiju.info>
-;; Version: 0.1
+;; Version: 0.2
 ;; Keywords: movabletype
 ;; URL: https://github.com/taiju/mt-doc-lookup-el
 

@@ -2,6 +2,10 @@
 
 To look up Movable Type documentation.
 
+## VERSION
+
+0.2
+
 ## INSTALL
 
 1. Put `mt-doc-lookup.el` to `load-path`.
