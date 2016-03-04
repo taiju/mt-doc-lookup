@@ -1,3 +1,7 @@
+2016-03-04  HIGASHI Taiju  <higashi@taiju.info>
+
+	* mt-doc-lookup.el: (mt-doc-lookup-config-directives-hash): Add new config-directives in MT 6.2.4
+
 2015-10-27  HIGASHI Taiju  <higashi@taiju.info>
 
 	* mt-doc-lookup.el: (mt-doc-lookup-*-hash): Follow MT 6.2
