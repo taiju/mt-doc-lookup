@@ -4,7 +4,7 @@ To look up Movable Type documentation.
 
 ## VERSION
 
-0.3
+0.4
 
 ## INSTALL
 
