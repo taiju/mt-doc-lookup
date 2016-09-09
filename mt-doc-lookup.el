@@ -1067,7 +1067,7 @@
 ;; Define the mt-doc-lookup-modifiers command.
 (mt-doc-lookup--def-lookup-command modifiers
  "To look up modifiers in the Movable Type documentation."
- "Look up Tags: "
+ "Look up Modifiers: "
  mt-doc-lookup-modifiers-hash)
 
 ;; Define the mt-doc-lookup command.
